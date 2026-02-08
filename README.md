@@ -64,7 +64,7 @@ Or
 
 #### How Much Money It Can Earn In One Day?
 
-Around 300.000 - 1.000.000 Cowoncys (at maximum)
+Around 300.000 - 1.000.000 Cowoncys (at maximum) 
 
 #### Can This Selfbot Run Efficiency On New Accounts?
 
@@ -72,7 +72,7 @@ Nope, This Selfbot Can't Run Efficiency On New Accounts. You Need Atleast A Batt
 
 #### Can I Get Banned From OwO?
 
-Yes, Only If You Don't Solve The Captcha From OwO. This Selfbot Will Automatically If Captcha Is Asked. But You Still Need To Solve It
+Yes, Only If You Don't Solve The Captcha From OwO. You Still Need To Solve It
 
 #### Can I Run It With My Android Phone?
 
